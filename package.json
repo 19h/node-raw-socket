@@ -6,12 +6,15 @@
   "directories": {
     "example": "example"
   },
-  "dependencies": {},
-  "contributors": [ 
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "nan": "^1.7.0"
+  },
+  "contributors": [
     {
       "name": "Stephen Vickers",
       "email": "stephen.vickers.sv@gmail.com"
-    } 
+    }
   ],
   "repository": {
     "type": "mercurial",
